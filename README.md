@@ -1,1 +1,2 @@
 # QuickChat
+NodeJS pet project
